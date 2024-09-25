@@ -21,8 +21,8 @@ role: 컴퓨터공학부 재학생
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+  - name: 전북대 컴퓨터공학부
+    url: https://csai.jbnu.ac.kr/csai/index.do
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.

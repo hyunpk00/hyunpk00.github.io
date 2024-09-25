@@ -6,8 +6,8 @@ title: 박현수
 name_pronunciation: 박현수
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: 현수
+last_name: 박
 
 # Status emoji
 status:
@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: 컴퓨터공학부 재학생
 
 # Organizations/Affiliations to display in Biography blox
 organizations:

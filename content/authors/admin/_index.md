@@ -3,7 +3,7 @@
 title: 박현수
 
 # Name pronunciation (optional)
-name_pronunciation: 박현수
+name_pronunciation:
 
 # Full name (for SEO)
 first_name: 현수

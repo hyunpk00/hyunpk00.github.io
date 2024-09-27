@@ -36,8 +36,6 @@ profiles:
     url: https://github.com/hyunpk00
   - icon: brands/linkedin
     url: https://www.linkedin.com/
-  - icon: brands/instagram
-    url: https://www.instagram.com/
 
 education:
   - area: PhD Artificial Intelligence

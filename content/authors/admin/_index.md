@@ -30,7 +30,7 @@ profiles:
   - icon: at-symbol
     url: 'mailto:hyunpk00@gmail.com'
     label: E-mail Me
-  - icon: brands/github
+  - icon: square-github-brands-solid.svg
     url: https://github.com/hyunpk00
 
 education:

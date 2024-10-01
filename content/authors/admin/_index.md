@@ -28,7 +28,9 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: square-github-brands-solid.svg
+
     url: https://github.com/hyunpk00
+    label: https://github.com/hyunpk00
 
 education:
   - area: PhD Artificial Intelligence

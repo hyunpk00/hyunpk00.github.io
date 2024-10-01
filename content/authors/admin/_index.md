@@ -27,8 +27,6 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: g-solid.svg
-    url: 'mailto:hyunpk00@gmail.com'
   - icon: square-github-brands-solid.svg
     url: https://github.com/hyunpk00
 

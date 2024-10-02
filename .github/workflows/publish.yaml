@@ -42,8 +42,6 @@ jobs:
         key: ${{ runner.os }}-hugomod-${{ hashFiles('**/go.mod') }}
         restore-keys: |
           ${{ runner.os }}-hugomod-
-    - name: Generate Pagefind search index
-      run: npx pagefind --source "public"
     - name: Setup Pages
       id: pages
       uses: actions/configure-pages@v5
@@ -53,6 +51,8 @@ jobs:
       run: |
         echo "Hugo Cache Dir: $(hugo config | grep cachedir)"
         hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
+    - name: Generate Pagefind search index
+      run: npx pagefind --source "public"
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v3
       with:

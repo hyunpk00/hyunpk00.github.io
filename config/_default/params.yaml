@@ -54,3 +54,10 @@ features:
     enable: false
   privacy_pack:
     enable: false
+  search:
+    provider: 
+    algolia:
+      app_id: ''
+      api_key: ''
+      index_name: ''
+      show_logo: false

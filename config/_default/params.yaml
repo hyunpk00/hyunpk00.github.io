@@ -30,8 +30,10 @@ marketing:
 header:
   navbar:
     enable: true
-    blox: floating-theme-toggler
     show_search: true
+    show_translations: true
+    hide_language_name: false
+    show_theme_chooser: true
 
 # Site footer
 footer:

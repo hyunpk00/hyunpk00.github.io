@@ -29,7 +29,7 @@ organizations:
 profiles:
   - icon: 
     mailto:
-  - icon: square-github-brands-solid
+  - icon: square-github-brands-solid.svg
     url: https://github.com/hyunpk00
     label: https://github.com/hyunpk00
 

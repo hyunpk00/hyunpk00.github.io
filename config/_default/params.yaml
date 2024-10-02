@@ -30,6 +30,7 @@ marketing:
 header:
   navbar:
     enable: true
+    blox: floating-theme-toggler
     show_search: true
 
 # Site footer

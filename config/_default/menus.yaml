@@ -5,10 +5,10 @@
 
 main:
   - name: Home
-    url: home/
+    url: /
     weight: 10
-  - name: Blog
-    url: blog/
+  - name: Information
+    url: /author/admin/
     weight: 20
   - name: Contact
     url: contact/

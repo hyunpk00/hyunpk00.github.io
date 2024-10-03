@@ -27,8 +27,6 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: 
-    mailto:
   - icon: square-github-brands-solid.svg
     url: https://github.com/hyunpk00
     label: https://github.com/hyunpk00

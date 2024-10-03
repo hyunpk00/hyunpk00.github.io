@@ -8,7 +8,7 @@ main:
     url: /
     weight: 10
   - name: Information
-    url: author/admin/
+    url: author/
     weight: 20
   - name: Contact
     url: contact/

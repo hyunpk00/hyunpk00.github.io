@@ -31,8 +31,6 @@ header:
   navbar:
     enable: true
     show_search: true
-    show_translations: true
-    hide_language_name: false
     show_theme_chooser: true
 
 # Site footer
@@ -56,7 +54,3 @@ features:
     enable: false
   privacy_pack:
     enable: false
-  map:
-    provider: 'mapnik'
-    api_key: ''
-    zoom: 15

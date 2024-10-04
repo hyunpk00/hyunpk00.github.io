@@ -1,6 +1,6 @@
 ---
 # Page title
-title:
+title: contact
 # Page type - we want a landing page (such as a homepage)
 type: landing
 

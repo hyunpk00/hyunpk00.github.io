@@ -12,10 +12,7 @@ sections:
       title: 박현수
       subtitle: A subtitle
       text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
-  - block: markdown
-    id: section-2
-    content:
-      title: Section 2
-      subtitle: A subtitle
-      text: Add your Section 2 content here...
+      coordinates:
+        latitude: '37.4275'
+        longitude: '-122.1697'
 ---

@@ -6,7 +6,7 @@ type: landing
 
 # Your landing page sections - add as many different content blocks as you like
 sections:
-  - block: contact
+  - block: hero
     id: section-1
     content:
       title: Contact

@@ -21,7 +21,7 @@ sections:
     design:
       banner:
         # Upload your cover image to the `assets/media/` folder and reference it here
-        filename: cash-macanaya-kUDgzGrhzko-unsplash.jpg
+        filename: ilya-pavlov-OqtafYT5kTw-unsplash.jpg
       biography:
         # Customize the style of your biography text
         style: 'text-align: justify; font-size: 0.8em;'

@@ -22,5 +22,6 @@ sections:
         latitude: '35.846263'
         longitude: '127.134388'
     design:
+      banner: 
       columns: '2'
 ---

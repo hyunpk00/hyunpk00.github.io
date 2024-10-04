@@ -9,12 +9,12 @@ sections:
   - block: markdown
     id: section-1
     content:
-      title: 박현수
+      title: Contact
       subtitle: A subtitle
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+      text: 전북대학교 공과대학 7호관에 주로 있습니다.
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
+        latitude: '35.846263'
+        longitude: '127.134388'
     design:
       columns: '2'
 ---

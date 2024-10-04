@@ -12,6 +12,11 @@ sections:
       title: Contact
       subtitle: A subtitle
       text: 전북대학교 공과대학 7호관에 주로 있습니다.
+      features:
+        map:
+          provider: 'google'
+          api_key: ''
+          zoom: 15
       coordinates:
         latitude: '35.846263'
         longitude: '127.134388'

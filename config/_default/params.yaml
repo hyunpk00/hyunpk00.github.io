@@ -32,7 +32,17 @@ header:
     enable: true
     show_search: true
     show_theme_chooser: true
-
+    logo:
+      # Logo text
+      text: ""
+      # Logo filename in `assets/media/` folder
+      filename: "logo.svg"
+    # Shop a call-to-action button in the top right?
+    button:
+      enable: true
+      text: "Get Started"
+      url: "https://hugoblox.com/templates/"
+      
 # Site footer
 footer:
   copyright:

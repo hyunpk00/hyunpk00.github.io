@@ -34,7 +34,7 @@ header:
     show_theme_chooser: true
     logo:
       # Logo text
-      text: ""
+      text: "Hyun"
       # Logo filename in `assets/media/` folder
       filename: "logo.svg"
     # Shop a call-to-action button in the top right?
@@ -42,7 +42,7 @@ header:
       enable: true
       text: "Get Started"
       url: "https://hugoblox.com/templates/"
-      
+
 # Site footer
 footer:
   copyright:

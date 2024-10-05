@@ -3,7 +3,6 @@ title:
 type: landing
 
 sections:
-  
   - block: biography
     content:
       username: admin
@@ -15,4 +14,3 @@ sections:
         # Customize the style of your biography text
         style: 'text-align: justify; font-size: 0.5em;
 ---
-현재 전북대학교 컴퓨터공학부에 재학중인 박현수입니다.

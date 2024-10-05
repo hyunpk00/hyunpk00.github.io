@@ -7,14 +7,15 @@ sections:
     content:
       title: 박현수의 이력서
       text:
-      text-color: '#000' 
+      color: '#000' 
       primary_action:
         text: 요약
         url: summary/
         icon: sparkles
       secondary_action:
         text: 이력서
-        url: author/
+        url: authors/
+        color: '#000'
       announcement:
         text: Announcing the release of version 1.
         link:

@@ -13,4 +13,9 @@ sections:
       biography:
         # Customize the style of your biography text
         style: 'text-align: justify; font-size: 0.5em;'
+
+  - block: features
+    content:
+        title:
+        text: 현재 전북대학교 컴퓨터공학부를 재학중인 박현수입니다.
 ---

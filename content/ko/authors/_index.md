@@ -18,7 +18,7 @@ sections:
       button:
         text: Download instruction
         url: uploads/instruction.pdf
-        weight: 10
+        weight: 30
     design:
       banner:
         # Upload your cover image to the `assets/media/` folder and reference it here

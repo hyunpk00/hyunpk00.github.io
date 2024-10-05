@@ -9,7 +9,7 @@ sections:
     design:
       banner:
         # Upload your cover image to the `assets/media/` folder and reference it here
-        filename: jippe-joosten-0gNzcMqd0sw-unsplash.jpg
+        filename: duncan-kidd-wBbIn8yYMTM-unsplash.jpg
       biography:
         # Customize the style of your biography text
         style: 'text-align: justify; font-size: 0.5em;'

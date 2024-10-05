@@ -13,5 +13,4 @@ sections:
       biography:
         # Customize the style of your biography text
         style: 'text-align: justify; font-size: 0.5em;
-        
 ---

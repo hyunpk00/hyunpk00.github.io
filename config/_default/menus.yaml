@@ -7,9 +7,19 @@ main:
   - name: Home
     url: /
     weight: 10
+  
   - name: Information
     url: authors/
     weight: 30
+  - parent: Information
+    name: Summary
+    url:
+    weight: 40
+  - parent: Information
+    name: Resume
+    url: authors/
+    weight: 50
+  
   - name: Contact
     url: contact/
-    weight: 50
+    weight: 60

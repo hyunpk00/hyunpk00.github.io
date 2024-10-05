@@ -6,7 +6,7 @@ sections:
   - block: hero
     content:
       title: 박현수의 이력서
-      text:
+      text: asdsad
       color: '#000' 
       primary_action:
         text: 요약
@@ -16,11 +16,6 @@ sections:
         text: 이력서
         url: authors/
         color: '#000'
-      announcement:
-        text: Announcing the release of version 1.
-        link:
-          text: Read more
-          url: https://example.com
     design:
       background:
         image:

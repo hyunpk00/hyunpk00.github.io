@@ -16,5 +16,5 @@ sections:
   - block: features
     content:
         title:
-        text: 현재 전북대학교 컴퓨터공학부를 재학중인 박현수입니다.
+        text: My name is Hyunsu Park, and I am currently studying computer engineering at Chonbuk National University.
 ---

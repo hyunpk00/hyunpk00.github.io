@@ -9,6 +9,6 @@ sections:
       title: Contact
       subtitle: 
       icon: phone-solid.svg
-      text: '전화번호: 010-8910-3826'
+      text: 'phonenumber: 010-8910-3826'
       
 ---

@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 박현수
+title: Hyunsu Park
 
 # Name pronunciation (optional)
 name_pronunciation:
 
 # Full name (for SEO)
-first_name: 현수
-last_name: 박
+first_name: Hyunsu
+last_name: Park
 
 # Status emoji
 status:
@@ -17,11 +17,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: 컴퓨터공학부 재학생
+role: Student at the Department of Computer Engineering
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: 전북대학교 컴퓨터공학부
+  - name: Chonbuk National University Department of Computer Engineering
     url: https://csai.jbnu.ac.kr/csai/index.do
 
 # Social network links

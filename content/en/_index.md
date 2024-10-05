@@ -5,15 +5,15 @@ type: landing
 sections:
   - block: hero
     content:
-      title: 박현수의 이력서
+      title: HyunsuPark's resume
       text: asdsad
       color: '#000' 
       primary_action:
-        text: 요약
+        text: summary
         url: summary/
         icon: sparkles
       secondary_action:
-        text: 이력서
+        text: resume
         url: authors/
         color: '#000'
     design:

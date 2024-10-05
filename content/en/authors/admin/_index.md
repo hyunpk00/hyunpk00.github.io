@@ -38,7 +38,7 @@ education:
   - area: Department of Computer Engineering
     institution: Chonbuk National University
     date_start: 2020-01-01
-    date_end: current
+    date_end: 
     summary: |
       Currently attending 3rd grade
 

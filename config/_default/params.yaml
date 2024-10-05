@@ -37,12 +37,7 @@ header:
       # Logo text
       text: "Hyun"
       # Logo filename in `assets/media/` folder
-      filename: "logo.svg"
-    # Shop a call-to-action button in the top right?
-    button:
-      enable: true
-      text: "Get Started"
-      url: "https://hugoblox.com/templates/"
+      filename: user-solid.svg
 
 # Site footer
 footer:

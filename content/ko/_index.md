@@ -20,7 +20,7 @@ sections:
       background:
         image:
       # Name of image in `assets/media/`.
-          filename: jonathan-petersson-a6N685qLsHQ-unsplash.jpg
+          filename: marek-okon-Jj7oBJRW4V0-unsplash.jpg
       # Apply image filters?
           filters:
         # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.

@@ -5,15 +5,16 @@ type: landing
 sections:
   - block: hero
     content:
-      title: Hugo Blox
-      text: Build your site with blocks 🧱
+      title: 박현수의 이력서
+      text:
+      text-color: '#000' 
       primary_action:
-        text: Get Started
-        url: https://example.com
+        text: 요약
+        url: summary/
         icon: sparkles
       secondary_action:
-        text: Read the docs
-        url: https://example.com
+        text: 이력서
+        url: author/
       announcement:
         text: Announcing the release of version 1.
         link:
@@ -36,34 +37,4 @@ sections:
           parallax: true
       # Text color (true=light, false=dark, or remove for the dynamic theme color).
           text_color_light: true
-  - block: collection
-    id: posts
-    content:
-      title: Recent Posts
-      subtitle: ''
-      text: 'Check out my recent blog posts below!'
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        # The folders to display content from
-        folders:
-          - post
-        author: ""
-        category: ""
-        tag: ""
-        publication_type: ""
-        featured_only: false
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-      # Choose how many pages you would like to offset by
-      # Useful if you wish to show the first item in the Featured widget
-      offset: 0
-      # Field to sort by, such as Date or Title
-      sort_by: 'Date'
-      sort_ascending: false
-    design:
-      # Choose a listing view
-      view: card
 ---

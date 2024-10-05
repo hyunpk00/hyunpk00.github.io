@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download instruction
-        url: instruction.pdf
+        url: uploads/instruction.pdf
     design:
       banner:
         # Upload your cover image to the `assets/media/` folder and reference it here

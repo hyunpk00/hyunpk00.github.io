@@ -1,18 +1,13 @@
 ---
 # Page title
 title: contact
-# Page type - we want a landing page (such as a homepage)
 type: landing
 
-# Your landing page sections - add as many different content blocks as you like
 sections:
-  - block: hero
-    id: section-1
+  - block: markdown
     content:
-      coordinates:
-        latitude: '35.846263'
-        longitude: '127.134388'
-    design:
-      banner: 
-      columns: '2'
+      title: Contact
+      subtitle: 
+      icon: custom/phone-solid
+      text: '전화번호: 010-8910-3826'
 ---

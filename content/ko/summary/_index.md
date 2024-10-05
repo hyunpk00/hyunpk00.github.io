@@ -12,8 +12,7 @@ sections:
         filename: duncan-kidd-wBbIn8yYMTM-unsplash.jpg
       biography:
         # Customize the style of your biography text
-        style: 'text-align: justify; font-size: 0.5em;'
-
+        style: 'text-align: justify; font-size: 0.8em;'
   - block: features
     content:
         title:

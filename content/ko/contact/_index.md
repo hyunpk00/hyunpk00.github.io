@@ -10,7 +10,6 @@ sections:
     id: section-1
     content:
       title: Contact
-      subtitle: A subtitle
       text: 전북대학교 공과대학 7호관에 주로 있습니다.
       address:
         street: 전북대학교 공과대학 7호관

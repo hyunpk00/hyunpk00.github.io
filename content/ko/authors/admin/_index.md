@@ -38,7 +38,7 @@ education:
   - area: 컴퓨터공학부
     institution: 전북대학교 공과대학
     date_start: 2020-01-01
-    date_end: '현재'
+    date_end: 
     summary: |
       3학년 재학중
 

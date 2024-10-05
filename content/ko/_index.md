@@ -9,10 +9,10 @@ sections:
     design:
       banner:
         # Upload your cover image to the `assets/media/` folder and reference it here
-        filename: tianyi-ma-WiONHd_zYI4-unsplash.jpg
+        filename: jippe-joosten-0gNzcMqd0sw-unsplash.jpg
       biography:
         # Customize the style of your biography text
-        style: 'text-align: justify; font-size: 0.8em;'
+        style: 'text-align: justify; font-size: 0.5em;'
   - block: hero
     content:
       title: Hugo Blox
